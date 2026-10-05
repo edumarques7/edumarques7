@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title">
+<title id="title">Eduardo Marques — Desenvolvedor Python</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14243c"/><stop offset="1" stop-color="#09111f"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8eb9ed" stroke-opacity=".045"/></pattern></defs>
+<rect width="1280" height="380" rx="20" fill="url(#bg)"/><rect width="1280" height="380" rx="20" fill="url(#grid)"/>
+<rect x="58" y="65" width="38" height="5" rx="2.5" fill="#ffd343"/>
+<text x="110" y="74" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#9bb7d6">EDUMARQUES7 / BRASIL</text>
+<text x="58" y="154" font-family="Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-2" fill="#f1f6fc">Eduardo Marques</text>
+<text x="60" y="198" font-family="Arial,sans-serif" font-size="23" fill="#a9bdd4">Desenvolvedor Python</text>
+<text x="58" y="266" font-family="Arial,sans-serif" font-size="40" font-weight="700" fill="#ffd343">Python em foco.</text>
+<text x="60" y="307" font-family="Arial,sans-serif" font-size="17" letter-spacing="1" fill="#8da6c3">DJANGO   /   FASTAPI   /   FLASK</text>
+<rect x="742" y="73" width="480" height="238" rx="14" fill="#0c1728" stroke="#273951"/><path d="M742 116H1222" stroke="#273951"/>
+<circle cx="767" cy="95" r="4" fill="#5489be"/><circle cx="783" cy="95" r="4" fill="#7188a3"/><circle cx="799" cy="95" r="4" fill="#ffd343"/>
+<text x="1179" y="100" text-anchor="end" font-family="monospace" font-size="13" fill="#8da6c3">perfil.py</text>
+<g font-family="monospace" font-size="18"><text x="770" y="156" fill="#8ba4c1"># tecnologia e desenvolvimento</text><text x="770" y="197"><tspan fill="#91c5ff">foco</tspan><tspan fill="#e1eaf5"> = </tspan><tspan fill="#ffd86a">"Python"</tspan></text><text x="770" y="234"><tspan fill="#91c5ff">stack</tspan><tspan fill="#e1eaf5"> = [</tspan></text><text x="792" y="266" fill="#ffd86a">"Django", "FastAPI", "Flask"</text><text x="770" y="293" fill="#e1eaf5">]</text></g>
+</svg>
